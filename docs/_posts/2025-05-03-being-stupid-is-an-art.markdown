@@ -26,7 +26,7 @@ print("int main() {")
 print("int a;")
 print('scanf("%d", &a);')
 i = 0
-while i < 2**16-1:
+while i < 2**16:
     print("if (a == "+str(i)+") {")
     if not i%2:
         print('printf("even");')
@@ -37,7 +37,7 @@ while i < 2**16-1:
 print("}")
 {% endhighlight %}
 
-Now that gives us a nice 196611 lines long c file, ripe for compilation.  
+Now that gives us a nice 196614 lines long c file, ripe for compilation.  
 Some keen eyed people may have noticed, "Wait doesn't the python script need to figure out which numbers are even and odd". *shh* it's using magic, like all optimised code.
 
 Throwing our small c file through everyone favourite gcc gives us a nice executable, only thing left is to test it.  
