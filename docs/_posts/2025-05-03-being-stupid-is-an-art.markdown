@@ -3,7 +3,7 @@ layout: post
 title:  "Being stupid is an art, and i excel at it."
 date:   2025-05-02 10:53:41 +0200
 categories: dumb shit
-permalink: /stupid
+permalink: /2025/stupid
 ---
 Being stupid can manifest in many ways.  
 And most of the time I would be against using the word stupid.
