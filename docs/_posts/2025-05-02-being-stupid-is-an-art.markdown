@@ -96,8 +96,8 @@ It's glorius, never has more beautiful c code graced MSVC(actually most code is 
 #include <stdio.h>
 
 int main() {
+    
     int a;
-
     scanf("%d", &a);
 
     if (a%2 == 0) {
