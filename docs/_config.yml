@@ -21,7 +21,7 @@
 title: Stupio
 email: tobiashaugejensen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A dumb blog for dumb people, by bumb people.
+  A dumb blog for dumb people, by dumb people.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.palbom.dk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: epicgamer77xx
